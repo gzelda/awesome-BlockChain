@@ -12,6 +12,8 @@ github地址：https://github.com/makerdao
 
 生成DAI的以太坊合约地址：
 0x9b0ccf7C8994E19F39b2B4CF708e0A7DF65fA8a3
+DAI ERC-20 TOKEN 合约
+0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359
 
 文档分析：
 https://github.com/makerdao/sai
@@ -57,6 +59,9 @@ https://github.com/tyGavinZJU/compound-money-market
 ###NEST
 NEST
 https://ethfans.org/topics/29118
+<font color=#FF0000>
+无github、无公开合约、币种仅支持一些小众币。有山寨币洗钱嫌疑，并且还伴有分红，不是单纯的金融借贷类dapp。
+</font> 
 
 ## 数字博彩资产（Decentraland）
 
