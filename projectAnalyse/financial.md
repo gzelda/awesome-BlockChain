@@ -41,6 +41,16 @@ MoneyMarket合约：负责主要的借贷逻辑的实现，包括了一系列的
 InterestRateModel合约：提供借贷利率的计算模型。
 PriceOracle合约：用来提供各个ERC-20代币的价格信息。比如这个合约可以通过排名前十的交易所得出一个币的当前价格，为其他合约所调用。“
 
+
+
+
+<font color=#FF0000> 
+https://compound.finance/developers 
+里面有详细的开发者需要的内容，例如三个合约的源码api解析
+ </font> 
+ <img src="photo/1.png" />
+
+
 Compound MoneyMarket truffle 源码
 https://github.com/tyGavinZJU/compound-money-market
 
