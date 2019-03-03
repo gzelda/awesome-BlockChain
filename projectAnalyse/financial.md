@@ -61,6 +61,7 @@ NEST
 https://ethfans.org/topics/29118
 <font color=#FF0000>
 无github、无公开合约、币种仅支持一些小众币。有山寨币洗钱嫌疑，并且还伴有分红，不是单纯的金融借贷类dapp。
+与币安有一定的联系
 </font> 
 
 ## 数字博彩资产（Decentraland）
