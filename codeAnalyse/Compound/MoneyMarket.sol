@@ -638,6 +638,10 @@ contract Exponential is ErrorReporter, CarefulMath {
         return value.mantissa == 0;
     }
 }
+
+
+
+/////tydebug
 contract MoneyMarket is Exponential, SafeToken {
 
     uint constant initialInterestIndex = 10 ** 18;

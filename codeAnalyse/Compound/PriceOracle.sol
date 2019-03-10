@@ -389,6 +389,26 @@ contract Exponential is ErrorReporter, CarefulMath {
         return value.mantissa == 0;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////tydebug tydebug
 contract PriceOracle is Exponential {
 
     /**
