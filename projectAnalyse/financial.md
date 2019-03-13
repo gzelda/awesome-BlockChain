@@ -29,7 +29,7 @@ https://makerdao.com/purple/
 ### Bloqboard
 https://mp.weixin.qq.com/s/L9THv3aZ1J_QcEQDVTYCLw
 
-###Compound
+### Compound
 Compound介绍
 https://mp.weixin.qq.com/s/ZejCs01yuYYGULBQd6VYJg
 
@@ -50,13 +50,13 @@ PriceOracle合约：用来提供各个ERC-20代币的价格信息。比如这个
 https://compound.finance/developers 
 里面有详细的开发者需要的内容，例如三个合约的源码api解析
  </font> 
- <img src="photo/1.png" />
+ <img src="photo/1.png" width="400"/>
 
 
 Compound MoneyMarket truffle 源码
 https://github.com/tyGavinZJU/compound-money-market
 
-###NEST
+### NEST
 NEST
 https://ethfans.org/topics/29118
 <font color=#FF0000>
