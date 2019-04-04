@@ -27,7 +27,12 @@ https://makerdao.com/purple/
 
 
 ## 预测市场（Augur 协议 ）（Veil 应用）
+
+Augur 二元期权 链上角色：参与者、报告人、验证人
+
 ## 去中心化贷款应用
+
+
 
 
 ### Bloqboard
@@ -68,7 +73,39 @@ https://ethfans.org/topics/29118
 与币安有一定的联系
 </font> 
 
+makerdao
+
 ## 数字博彩资产（Decentraland）
+
+
+
+## 资管
+melonport
+
+## 融资
+ICO
+
+MasterCoin 
+token设计 垄断
+mni网络 
+ICO pro
+
+
+## 衍生品
+
+dydx 保证金交易  生成token，购买做空币，虚拟token的价值变化
+dharma    p2p借贷
+
+
+## 支付
+kyper uniswap 闪电网络
+
+
+
+## other
+
+
+
 
 
 
